@@ -1,5 +1,5 @@
 # 💫 About Me:
--I’m Roza, a Flutter developer 🐦 with a strong understanding of state management 🛠️.<br> - Currently diving into backend development with Laravel 🚀 to expand my skills.<br>- Passionate about creating seamless mobile experiences and powerful backend systems.<br>- Exploring API integration 🔌 and cloud deployment ☁️ to enhance my projects.<br>- Always eager to learn new tips and tricks – let’s chat! 💬
+-I’m Roza, a Flutter developer 🐦 with a strong understanding of state management 🛠️.<br> - Currently diving into backend development with Laravel 🚀 to expand my skills.<br>- Passionate about creating seamless mobile experiences and powerful backend systems.<br>- Exploring  cloud deployment ☁️ to enhance my projects.<br>- Always eager to learn new tips and tricks – let’s chat! 💬
 
 
 ## 🌐 Socials:
